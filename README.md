@@ -1,1 +1,3 @@
 # PythonHangmanGame
+
+This is a simple hangman game written in Python. The game is played in the console. The game is played by guessing the word that is randomly selected by the computer. The player has 6 chances to guess the word. The player can guess the word by guessing a letter or the whole word. The player wins if they guess the word correctly within the 6 chances. The player loses if they run out of chances.
